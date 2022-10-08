@@ -21,3 +21,7 @@ interest. The preprocessing pipeline can be applied to any spoken material in En
 Effectiveness in case of speaker diarization has not been tested. 
 
 Please reach out to me at ziyuanzhao@college.harvard.edu if you are interested in the project, thanks!
+
+
+A picture is worth a thousand words - here's a screenshot:
+![Demo screenshot](demo_screenshot.png)
